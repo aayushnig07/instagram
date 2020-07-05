@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.IntStream;
 
-public class filter {
+public class pallindrome {
     public static void main(String[]args){
         List<String>elements = Arrays.asList("101","102","23123","44323","abba");
         findAllPallindromesInAList(elements);
